@@ -1,9 +1,6 @@
-var x;
-x = 2;
-console.log(x);
+// အဝန်းပိုင်း (π) ပိုင်တန်ဖိုး သတ်မှတ်ခြင်း
+const Pi = 3.14159;
 
-var y = 5;
-console.log(y);
+console.log(Pi);
 
-y = 10;
-console.log(y);
+Pi = 1;
